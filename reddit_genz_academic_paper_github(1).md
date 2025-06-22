@@ -1,7 +1,7 @@
 # Reddit Generation Z Language Analysis Research Paper
 ## A Study on Social Media Language Patterns Based on Reddit Data
 
-**Author**: Web Crawler Analysis System  
+**Author**: Eric Yang, A rising senior Wechester Academy, intern at marbellaai.com, produced this report through cursor and a Web Crawler Analysis System  
 **Institution**: Data Science Research Team  
 **Date**: June 20, 2025  
 **Keywords**: Generation Z, Internet Language, Reddit, Social Media, Language Analysis  
